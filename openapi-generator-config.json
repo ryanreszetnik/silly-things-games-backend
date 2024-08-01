@@ -1,0 +1,8 @@
+{
+  "apiPackage": "api",
+  "modelPackage": "models",
+  "useSingleRequestParameter": true,
+  "withSeparateModelsAndApi": false,
+  "apiDocs": false,
+  "modelDocs": false
+}
